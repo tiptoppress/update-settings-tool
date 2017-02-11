@@ -1,2 +1,5 @@
-# update-widget-options
+Update Widget Options
+=====================
+
+## Description
 Update thumbnail options for the Category Posts Widget
