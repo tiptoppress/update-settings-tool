@@ -3,7 +3,7 @@ Update Settings Tool
 
 Update settings for all installed widgets
 
-**Requires:** Term and Category Based Posts Widget, Category Posts Widget or the Same Category Widget
+**Requires:** Term and Category Based Posts Widget, Category Posts Widget or the Same Category Posts
 
 **Contributors:** DanielFloeter
   
