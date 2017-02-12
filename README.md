@@ -16,25 +16,25 @@ Update settings for all installed widgets
 Choose your widget and update all settings with one click.
 
 ## Features
-* Option for thumbnail dimentions (width and height)
+* Option for thumbnail dimentions (width and height).
 
 ## Documentation
 1. Install the widget.
 
-​2. Go to the widget admin panel
+​2. Go to the widget admin panel.
 
-​3. Select your widget installation "Category Posts Widget" or "Term and Category based Posts Widget"
+​3. Select your widget installation "Category Posts Widget" or "Term and Category based Posts Widget".
 
-​4. Put the thumbnail destination dimentions in the input fields
+​4. Put the thumbnail destination dimentions in the input fields.
 
-​5. "Save"
+​5. "Save".
 
 ## Use the widget
 1. Download the plugin.
 
 2. Upload it to the plugins folder of your blog ([WP-installation]\wp-content\plugins\update-settings-tool.php).
 
-3. Activate the plugin through the 'Plugins' menu in WordPress
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 4. Now, goto the Widgets page of the Appearance section and configure the Category Posts widget.
 

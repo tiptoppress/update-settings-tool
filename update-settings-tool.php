@@ -1,20 +1,20 @@
 <?php
 /*
-Plugin Name: Update Widget Options
-Plugin URI: http://tiptoppress.com/downloads/term-and-category-based-posts-widget/
-Description: Update thumbnail options for the Category Posts Widget
+Plugin Name: Update Settings Tool
+Plugin URI: https://github.com/tiptoppress/update-settings-tool
+Description: Update settings for all installed widgets
 Author: TipTopPress
 Version: 0.1
 Author URI: http://tiptoppress.com
 */
 
-namespace categoryPostsWidget\updateWidgetOptions;
+namespace updateSettingsTool;
 
 class uwo_widget extends \WP_Widget {
 
 function __construct() {
 	parent::__construct(
-		'uwo_widget', 'Update Widget Options', array( 'description' => 'Update all thumbnail dimentions for the Category Posts Widget', ) 
+		'uwo_widget', 'Update Settings Tool', array( 'description' => 'Update settings for all installed widgets', ) 
 	);
 }
 
